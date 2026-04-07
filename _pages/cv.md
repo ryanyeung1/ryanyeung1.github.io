@@ -11,21 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A.Sc. in Biomedical Engineering, University of British Columbia, 2023
+* M.A.Sc. in Biomedical Engineering, University of British Columbia, 2026
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Sep 2023 - Apr 2026: Graduate Research Assistant
+  * University of British Columbia
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Prof. Tim Salcudean
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2023 - Sep 2023: Research Assistant
+  * University of British Columbia
+  * Duties included: Tagging issues
+  * Supervisor: Prof. Tim Salcudean
+  
+* Jan 2022 - Sep 2022: Mechatronics Engineer (Co-op)
+  * Aspect Biosystems
+  * Duties included: Tagging issues
+
+* May 2021 - Dec 2021: Test Engineer (Co-op)
+  * Verathon
+  * Duties included: Tagging issues
   
 Skills
 ======
