@@ -1,8 +1,9 @@
 ---
 title: "Model Mediated Human Teleoperation for Remote Ultrasound"
-excerpt: "Development and validation of a mixed reality tele-ultrasound system" # <br/><img src='/images/500x300.png'>
+excerpt: "*Apr 2024 - Apr 2026*<br/>Development and validation of a mixed reality tele-ultrasound system" # <br/><img src='/images/500x300.png'>
 collection: projects
 ---
+*Apr 2024 - Apr 2026*
 
 Access to diagnostic ultrasound imaging remains limited in remote communities, motivating the development of tele-ultrasound to bridge this gap. Existing solutions leveraging physical robots are expensive to set up and maintain. As such, prior work introduced human teleoperation as a more accessible method of tele-ultrasound which enables tightly-coupled guidance between an expert and novice using mixed reality.
 
@@ -30,5 +31,7 @@ To model more accurate stiffness, I developed a regularized least squares system
 </video>
 
 ### Publications
+- **R. Yeung**. Measurement-informed model-mediated human teleoperation for remote ultrasound (Master's thesis). University of British Columbia, April 2026. DOI: [10.14288/1.0451914](https://dx.doi.org/10.14288/1.0451914)
+
 - **R. Yeung**, D. Black, and S.E. Salcudean. Measurement and Potential Field-Based Patient Modelling for Model-Mediated Tele-ultrasound. Accepted to 2026 IEEE International Conference on Robotics and Automation (ICRA), January 2026. DOI: [10.48550/arXiv.2509.15325](https://doi.org/10.48550/arXiv.2509.15325)
 - **R. Yeung**, D. Black, P.B. Chen, V. Lessoway, J. Reid, S. Rangel-Suarez, S.D. Chang, and S.E. Salcudean. Mixed Reality Tele-Ultrasound over 750 km: A Feasibility Study. In IEEE Conference on Telepresence (Best Student Paper), September 2025. DOI: [10.48550/arXiv.2409.13058](https://arxiv.org/abs/2409.13058)

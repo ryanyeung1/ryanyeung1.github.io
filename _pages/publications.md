@@ -8,6 +8,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=kDLUZhMAAAAJ&hl=en&authuser=1) profile. \* indicates equal contribution.
 
 {% include base_path %}
+- **R. Yeung**. Measurement-informed model-mediated human teleoperation for remote ultrasound (Master's thesis). University of British Columbia, April 2026. DOI: [10.14288/1.0451914](https://dx.doi.org/10.14288/1.0451914)
 
 - Y.C. Lee, D. Black, **R. Yeung**, and S.E. Salcudean. Towards Automated Initial Probe Placement in Transthoracic Teleultrasound Using Human Mesh and Skeleton Recovery. Submitted to 2026 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), February 2026. DOI: [10.48550/arXiv.2603.11257](https://arxiv.org/abs/2603.11257)
 

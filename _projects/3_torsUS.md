@@ -1,8 +1,9 @@
 ---
 title: "Intraoperative Neck Ultrasound with the Da Vinci Surgical Robot"
-excerpt: "Developing a intraoperative tele-ultrasound using the Da Vinci" # <br/><img src='/images/500x300.png'>
+excerpt: "*Feb 2023 - Sep 2023*<br/>Developing a intraoperative tele-ultrasound using the Da Vinci" # <br/><img src='/images/500x300.png'>
 collection: projects
 ---
+*Feb 2023 - Sep 2023*
 
 Transoral robotic surgery is a minimally invasive approach for treating head and neck cancer, but it is a challenging procedure due to the small and complex workspace. To address this challenge, I helped develop a method of intraoperative ultrasound image guidance using the Da Vinci to maneuver the ultrasound probe on the patient’s neck. I implemented a registration pipeline between an external stereo camera to the Da Vinci, providing the surgeon with real-time feedback on the visual-motor misalignment when maneuvering the ultrasound probe through the view of the camera. This involved designing an attachment for the ultrasound probe to mount passive IR reflective markers and an ArUco marker. I helped facilitate a user study with nine surgeons and research assistants which showed this approach was feasible for acquiring an accurate image reconstruction of the carotid artery.
 

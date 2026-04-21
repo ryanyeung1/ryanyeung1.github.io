@@ -1,8 +1,9 @@
 ---
 title: "Video Laryngoscope Autonomous Cycle Testing"
-excerpt: "Designing electromechanical systems to automate medical device testing" # <br/><img src='/images/500x300.png'>
+excerpt: "*May 2021 - Dec 2021*<br/>Designing electromechanical systems to automate medical device testing" # <br/><img src='/images/500x300.png'>
 collection: projects
 ---
+*May 2021 - Dec 2021*
 
 Video laryngoscopes give medical providers view of the airway for faster and more reliable intubation. To help keep up with medical demand during the COVID-19 pandemic, I designed two electromechanical systems to automate two quality control procedures.
 

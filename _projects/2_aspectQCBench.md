@@ -1,8 +1,9 @@
 ---
 title: "Microfluidic Printhead Test Bench"
-excerpt: "Designing a test bench for microfluidic bioprinter printheads" # <br/><img src='/images/500x300.png'>
+excerpt: "*Mar 2022 - Sep 2022*<br/>Designing a test bench for microfluidic bioprinter printheads" # <br/><img src='/images/500x300.png'>
 collection: projects
 ---
+*Mar 2022 - Sep 2022*
 
 All manufactured bioprinter printheads must go through a series of tests for quality control. The existing setup suffered from sensor drift and required an inefficient workflow, bottlenecking manufacturing speed. I designed a new test bench to address these challenges.
 
